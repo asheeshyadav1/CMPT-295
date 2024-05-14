@@ -1,7 +1,7 @@
 /*
 Filename: assemblyCodeRepresentation.c
 Description: This file contains a C function representative of the assemply code
-             given in our Question 2 for Assignment 4
+             given in our Question 2 for Assignment 3
 Author: Asheesh Yadav
 Date: March 1st, 2024
 */
